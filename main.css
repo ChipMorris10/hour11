@@ -1,0 +1,26 @@
+div.imageleft {
+  float: left;
+  clear: all;
+  text-align: center;
+  font-size: 10px;
+  font-style: italic;
+}
+
+div.imageright {
+  float: right;
+  clear: all;
+  text-align: center;
+  font-size: 10px;
+  font-style: italic;
+}
+
+img {
+  padding: 6px;
+  border: none;
+}
+
+.trouble {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
